@@ -10,6 +10,9 @@
 *~
 *.sass-cache
 
+# Secret Info
+aws-cred.json
+
 # OS or Editor folders
 .DS_Store
 .cache
